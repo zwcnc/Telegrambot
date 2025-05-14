@@ -5,7 +5,7 @@
   ❗️电报搜索群 &emsp  频道推荐  &emsp 电报搜索引擎❗️<br>
  <a>Telegram中文频道:</a> <a href="https://t.me/ZWCNC">@ZWCNC</a>  <a>官方网站:</a> <a href="https://dia.com">https://dianb.com</a>  <a>商务合作:</a> <a href="https://t.me/t">@tghzsx_bot</a>
 <br>
-  ❗️国内用户电报名最好用<strong>中文</strong>，协议号泛滥，英文名易被风控封号❗️<br>
+  
 </div>
-<br>机场推荐<br>
+<br>机场推荐：<br>
 
