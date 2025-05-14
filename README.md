@@ -7,5 +7,5 @@
 <br>
   
 </div>
-<br>机场推荐：<br>
+<br>机场推荐：<a href="https://cokecloud.cyou/#/register?code=oormOLYK">可乐云</a><br>
 
