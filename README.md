@@ -3,6 +3,7 @@
 <br>
   ❗️严禁中国大陆用户使用，请遵守当地法律法规，一切产生的法律问题，均与本项目无关❗️<br>
  <a>Telegram中文频道:</a> <a href="https://t.me/ZWCNC">@ZWCNC</a>  <a>官方网站:</a> <a href="https://dia.com">https://dianb.com</a>  <a>商务合作:</a> <a href="https://t.me/t">@tghzsx_bot</a>
+
 <br>机场推荐<br>
 <br>
   ❗️国内用户电报名字最好使用<strong>中文</strong>，协议号泛滥，英文名易被风控封号❗️<br>
