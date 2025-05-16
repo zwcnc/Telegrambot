@@ -101,10 +101,10 @@
 
 | 名字                  | 链接                                                                 | 价格                                   |
 | :-------------------- | :------------------------------------------------------------------: | :---------------------------------------- |
-| Cokecloud          | [可乐云](https://cokecloud.cyou/#/register?code=oormOLYK/)                                 | 每月9元                 |
-| 流量光               | [流量光机场](https://llg01.com/#/register?code=Zz7agkYE/)                                         | 为频道帖子创建表情回应按钮                 |
-| 狗狗加速            | [狗狗加速](https://go.dginv.click/#/register?code=8SF06h3p/)                             | 为频道所有帖子添加评论按钮                 |
-|   一元机场  | [一元机场](https://xn--4gq62f.com/#/register?code=nAfBzIbc/)                                 | 为频道帖子添加表情回应和评论               |
+| Cokecloud          | [可乐云](https://cokecloud.cyou/#/register?code=oormOLYK/)                                 | 每月9元  专线22/月               |
+| 流量光               | [流量光机场](https://llg01.com/#/register?code=Zz7agkYE/)                                         | 每月4.9元 年付40                 |
+| 狗狗加速            | [狗狗加速](https://go.dginv.click/#/register?code=8SF06h3p/)                             | 每月15.8元                 |
+|   一元机场  | [一元机场](https://xn--4gq62f.com/#/register?code=nAfBzIbc/)                                 | 每月7元 年付12               |
 | 跨境cloud| [跨境cloud](https://www.ikuajings.com/auth/register?code=TGZc/)                 | Telegram统计分析机器人                     |
 
 
