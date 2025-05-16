@@ -81,16 +81,12 @@
 | Approve By Poll       | [@KimmyXYC_Approve_By_Poll_bot](https://t.me/KimmyXYC_Approve_By_Poll_bot/) | 通过投票决定是否同意新成员的入群申请       |
 | Cleaning Toolbox      | [@CleaningToolboxBot](https://t.me/CleaningToolboxBot/)             | 自动踢出所有群组成员                       |
 
-### 曝光不良频道
+### 加密货币交易所
 | 名字       | 链接                                                                 | 功能描述                                   |
 | :--------- | :------------------------------------------------------------------: | :---------------------------------------- |
-|全国交友①|[https://t.me/+bJkN6Cz7WIQ5YjQ9](https://t.me/+bJkN6Cz7WIQ5YjQ9)|骗子(Scammer)|
-|全国交友②|[https://t.me/+C5fvKZ_VCxU4NWRl](https://t.me/+C5fvKZ_VCxU4NWRl)|骗子(Scammer)|
-| 莞式会所 | [https://t.me/+WZZlyeOzshdjNzdl](https://t.me/+WZZlyeOzshdjNzdl)|  骗子(Scammer)    |
-| 天天约会 | [https://t.me/+Z2vG6_WwhMVkMzc5](https://t.me/+Z2vG6_WwhMVkMzc5)|  骗子(Scammer)    |
-| 微信同城交友 | [https://t.me/+RSwm4w2RoUA4N2Nl](https://t.me/+RSwm4w2RoUA4N2Nl) |  骗子(Scammer)    |
-| 匿名配对 | [https://t.me/+K6dBFAFD_xc2MWU1](https://t.me/+K6dBFAFD_xc2MWU1)|  骗子(Scammer)    |
-| 反差 | [https://t.me/+bZ8sAhxGYWs4ZTg1](https://t.me/+bZ8sAhxGYWs4ZTg1)|  骗子(Scammer)    |
+|欧易OKX|[欧易注册](https://okx.com/join/OKCCNC)|20%手续费(返佣)|
+|币安Binance|[币安注册](https://accounts.marketwebb.io/register?ref=Z2GAHACS)|20%手续费(返佣)|
+
 
 ### 推广50U/月 
 | 名字       | 链接                                                                 | 功能描述                                   |
