@@ -105,7 +105,7 @@
 | 名字                  | 链接                                                                 | 价格                                   |
 | :-------------------- | :------------------------------------------------------------------: | :---------------------------------------- |
 | Cokecloud          | [可乐云](https://cokecloud.cyou/#/register?code=oormOLYK/)                                 | 每月                 |
-| LikeBot               | [@like](https://t.me/like/)                                         | 为频道帖子创建表情回应按钮                 |
+| LikeBot               | [流量光机场](https://llg01.com/#/register?code=Zz7agkYE/)                                         | 为频道帖子创建表情回应按钮                 |
 | DiscussBot            | [@discussbot](https://t.me/discussbot/)                             | 为频道所有帖子添加评论按钮                 |
 | React Bot             | [@ReactBot](https://t.me/ReactBot/)                                 | 为频道帖子添加表情回应和评论               |
 | Telegram Analytics Bot| [@tg_analytics_bot](https://t.me/tg_analytics_bot/)                 | Telegram统计分析机器人                     |
