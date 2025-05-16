@@ -110,9 +110,7 @@
 | 狗狗加速            | [狗狗加速](https://go.dginv.click/#/register?code=8SF06h3p/)                             | 为频道所有帖子添加评论按钮                 |
 |   一元机场  | [一元机场](https://xn--4gq62f.com/#/register?code=nAfBzIbc/)                                 | 为频道帖子添加表情回应和评论               |
 | 跨境cloud| [跨境cloud](https://www.ikuajings.com/auth/register?code=TGZc/)                 | Telegram统计分析机器人                     |
-| Telemetrio            | [@telemetr_io_bot](https://t.me/telemetr_io_bot/)                   | Telemetrio官方机器人                       |
-| TGStat Bot            | [@TGStat_Bot](https://t.me/TGStat_Bot/)                             | TGStat数据分析机器人                       |
-| Combot                | [@combot](https://t.me/combot/)                                     | Telegram 群组的最佳社区管理服务。管理、分析、触发器等 |
+
 
 ## Telegram iOS 苹果版 官方原生客户端进入限制群 (开车群) 的方法
 ![](https://i.imgur.com/Ba6epuD.png)
