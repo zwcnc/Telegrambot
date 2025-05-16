@@ -105,7 +105,7 @@
 | 流量光               | [流量光机场](https://llg01.com/#/register?code=Zz7agkYE/)                                         | 每月4.9元 年付40                 |
 | 狗狗加速            | [狗狗加速](https://go.dginv.click/#/register?code=8SF06h3p/)                             | 每月15.8元                 |
 |   一元机场  | [一元机场](https://xn--4gq62f.com/#/register?code=nAfBzIbc/)                                 | 每月7元 年付12               |
-| 跨境cloud| [跨境cloud](https://www.ikuajings.com/auth/register?code=TGZc/)                 | Telegram统计分析机器人                     |
+| 跨境cloud| [跨境cloud](https://www.ikuajings.com/auth/register?code=TGZc/)                 | 每月15.9元                     |
 
 
 ## Telegram iOS 苹果版 官方原生客户端进入限制群 (开车群) 的方法
